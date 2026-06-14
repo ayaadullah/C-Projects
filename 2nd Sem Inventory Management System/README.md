@@ -4,7 +4,7 @@ A standard console-based **Inventory Management System** implemented in C++ usin
 
 ---
 
-## 🚀 Key Features
+## 01. Key Features
 
 * **Role-Based Authentication:** Features isolated navigation panels for authorized Administrators and regular Users/Customers.
 * **Persistent File Storage:** Seamlessly synchronizes application state with text files (`products.txt` and `sales.txt`) using customized parsing and pipeline logic.
@@ -14,7 +14,7 @@ A standard console-based **Inventory Management System** implemented in C++ usin
 
 ---
 
-## 🛠️ Technical Implementation & OOP Architecture
+## 02. Technical Implementation & OOP Architecture
 
 This program effectively leverages fundamental OOP mechanics to ensure structural integrity and modular design:
 
@@ -25,7 +25,7 @@ This program effectively leverages fundamental OOP mechanics to ensure structura
 
 ---
 
-## 📦 System Credentials
+## 03. System Credentials
 
 The application uses structural mock profiles for user credential validation:
 
